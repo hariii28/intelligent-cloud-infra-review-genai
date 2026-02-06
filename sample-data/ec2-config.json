@@ -1,0 +1,6 @@
+{
+  "InstanceType": "t2.micro",
+  "PublicIP": true,
+  "SecurityGroup": ["0.0.0.0/0:22"],
+  "EncryptedStorage": false
+}
